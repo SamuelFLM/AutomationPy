@@ -15,3 +15,4 @@ pip install pyautogui
 pip install pillow
 pip install mouseinfo
 ```
+> Para parar execucao do script basta arrasta o mouse para o canto superior esquerdo.
