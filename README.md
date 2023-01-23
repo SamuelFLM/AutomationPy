@@ -7,3 +7,10 @@
 > Esse Projeto/Documentacao Foi pensado para utilizar como revisao/consulta das propriedades e metodos do pyautogui
 
 ### Progresso
+
+> Esta sendo utilizado as seguintes bibliotecas 
+
+```shell
+pip install pyautogui
+pip install pillow
+```
