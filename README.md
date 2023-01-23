@@ -13,4 +13,5 @@
 ```shell
 pip install pyautogui
 pip install pillow
+pip install mouseinfo
 ```
