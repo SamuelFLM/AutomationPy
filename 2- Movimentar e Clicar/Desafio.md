@@ -1,1 +1,1 @@
-> Criar uma pasta na area de trabalho
+> Desenvolva um algoritmo que cria uma pasta na area de trabalho
